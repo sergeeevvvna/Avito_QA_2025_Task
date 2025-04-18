@@ -1,0 +1,17 @@
+{
+  "name": "avito",
+  "version": "1.0.0",
+  "description": "## Описание Тесты для микросервиса объявлений Avito QA Internship (Spring 2025). Покрываются все 6 API ручек.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
